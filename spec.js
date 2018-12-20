@@ -7,6 +7,7 @@ var cn = {
     password:'abc'
 };
 
+//Anna is adding 
 var db = pgp(cn);
 
 var arr = [];
